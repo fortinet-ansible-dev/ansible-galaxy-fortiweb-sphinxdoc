@@ -4,6 +4,21 @@ Release Notes
 
 |
 
+Release Galaxy 1.3.0
+--------------------
+
+Release Targets
+^^^^^^^^^^^^^^^
+
+FortiWeb Galaxy 1.3.0 is based on 1.2.0.
+
+Features
+^^^^^^^^^^^^^^^
+- Add HTTP Content Routing modules.
+- Add HTTP/3 service and redirect-naked-domain configuration support in 'fwebos_server_policy' module.
+- Add the modules of HTTP Header Security, Custom Policy, CSRF Protection.
+- FortiWeb version: v7.2.x, v7.4.x and v7.6.x.
+
 Release Galaxy 1.2.0
 --------------------
 
